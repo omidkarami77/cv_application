@@ -77,7 +77,7 @@ class Application extends StatelessWidget {
         Container(
           margin: EdgeInsets.only(right: 10, left: 10),
           child: Text(
-            "عاشق برنامه نویسی موبایل اندروید و فلاتر، دوست دارم هرچیزی که یاد میگیرم رو به اشتراک بزارم یاد بدم ",
+            "عاشق برنامه نویسی موبایل اندروید و فلاتر، دوست دارم هرچیزی که یاد میگیرم رو به اشتراک بزارم و یاد بدم ",
             textDirection: TextDirection.rtl,
             style: TextStyle(fontSize: 15, fontWeight: FontWeight.bold),
             textAlign: TextAlign.center,
